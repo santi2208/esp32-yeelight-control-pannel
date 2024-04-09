@@ -27,3 +27,8 @@ int buttons_states[15] = {0, 0, 0, 0, 0};
 const int switch_room_button_pin = D6;
 const int switch_mode_button_pin = D7;
 ```
+## Credits
+[github.com/sylvek/yeelight-arduino](https://github.com/sylvek/yeelight-arduino)
+
+[Yeelight documentation](https://www.yeelight.com/download/Yeelight_Inter-Operation_Spec.pdf)
+
